@@ -1,2 +1,2 @@
-# Work internal samplingn tool
+# Internal sampling-tool
 Python script which samples either SVN, SAP or Excel files based on input parameters.
